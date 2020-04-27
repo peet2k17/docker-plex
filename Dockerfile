@@ -1,4 +1,4 @@
-FROM plexinc/pms-docker:latest
+FROM plexinc/pms-docker:1.19.1.2645-ccb6eb67e
 
 ARG PLEX_AUTOSCAN_BRANCH="master"
 
